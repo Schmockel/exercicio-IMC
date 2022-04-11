@@ -1,3 +1,3 @@
-# modelo-estudos
+# Calculo IMC
 
-o modelo de que irei usar em alguns dos meus estudos
+Um exercicio de calculo de imc
